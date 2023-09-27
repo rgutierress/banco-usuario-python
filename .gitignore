@@ -1,0 +1,9 @@
+
+.idea
+.pytest_cache
+tests/service/.pytest_cache
+src/__pycache__/
+src/models/__pycache__/
+src/service/__pycache__/
+tests/__pycache__/
+tests/service/__pycache__/
